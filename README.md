@@ -17,3 +17,5 @@ It will allow for building massively scalable e-mail platforms using software ad
 
 # Roadmap
 A roadmap is not available yet. As soon as more information is available it will be placed here.
+
+Most of the things which need to happen are described in issue [#12430](http://tracker.ceph.com/issues/12430) on the Ceph tracker.
