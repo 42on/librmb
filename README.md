@@ -1,5 +1,5 @@
 # librmb
-Librados Mailbox (librmb) is a library build on top of [Ceph](http://ceph.com]'s [librados](http://docs.ceph.com/docs/master/rados/api/librados/) to abstract mailboxes.
+Librados Mailbox (librmb) is a library build on top of [Ceph](http://ceph.com)'s [librados](http://docs.ceph.com/docs/master/rados/api/librados/) to abstract mailboxes.
 
 This library is still in the planning, design and development phase.
 
