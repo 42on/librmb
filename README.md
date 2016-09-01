@@ -1,0 +1,2 @@
+# librmb
+Librados Mailbox
